@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "chat server using nodejs and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http": "0.0.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "author": "Tran Minh Phuc",
+  "license": "ISC"
+}
